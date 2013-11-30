@@ -20,4 +20,7 @@ In this library I have prepared the following devices:
 * RULER: This device contains a ruler with 100mm and 200mm.
 * SQUARE: This device contains a square with a edge length of 100mm and also a 4Inch version.
 
+con.lbr
+-------------------------
 
+This library is a varous mixture of connectors sorted by the pincount
